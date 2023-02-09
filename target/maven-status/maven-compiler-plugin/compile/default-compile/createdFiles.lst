@@ -1,0 +1,16 @@
+com\cg\controller\ReviewController.class
+com\cg\Application.class
+com\cg\entity\Review.class
+com\cg\dto\ApiError.class
+com\cg\entity\Product.class
+com\cg\exception\ProductNotFoundException.class
+com\cg\dao\impl\ProductDaoImpl.class
+com\cg\service\impl\ReviewServiceImpl.class
+com\cg\advice\GlobalExceptionHandler.class
+com\cg\service\impl\ProductServiceImpl.class
+com\cg\dao\ReviewDao.class
+com\cg\service\ReviewService.class
+com\cg\controller\ProductCatalogue.class
+com\cg\dao\ProductDao.class
+com\cg\dao\impl\ReviewDaoImpl.class
+com\cg\service\ProductService.class
